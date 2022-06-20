@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<solution name="yepr.mps.ejsl.sandbox" uuid="12a7e401-5a5e-4d18-97ff-718c047abd7f" moduleVersion="0" compileInMPS="true">
+<solution name="yepr.mps.ejslj3.sandbox" uuid="1a9ebb6e-a782-4722-919c-c5f876ff4afc" moduleVersion="0" compileInMPS="true">
   <models>
     <modelRoot contentPath="${module}" type="default">
       <sourceRoot location="models" />
@@ -17,7 +17,7 @@
     <language slang="l:7dfe69d8-a337-410b-886c-9a78693e0c31:yepr.mps.ejslj3" version="0" />
   </languageVersions>
   <dependencyVersions>
-    <module reference="12a7e401-5a5e-4d18-97ff-718c047abd7f(yepr.mps.ejsl.sandbox)" version="0" />
+    <module reference="1a9ebb6e-a782-4722-919c-c5f876ff4afc(yepr.mps.ejslj3.sandbox)" version="0" />
   </dependencyVersions>
 </solution>
 

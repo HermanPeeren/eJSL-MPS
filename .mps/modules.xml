@@ -5,6 +5,9 @@
       <modulePath path="$PROJECT_DIR$/languages/yepr.mps.ejsl/runtime/yepr.mps.ejsl.runtime.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/yepr.mps.ejsl/sandbox/yepr.mps.ejsl.sandbox.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/yepr.mps.ejsl/yepr.mps.ejsl.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.mps.ejslj3/runtime/yepr.mps.ejslj3.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.mps.ejslj3/sandbox/yepr.mps.ejslj3.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.mps.ejslj3/yepr.mps.ejslj3.mpl" folder="" />
     </projectModules>
   </component>
 </project>
