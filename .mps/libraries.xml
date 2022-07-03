@@ -11,6 +11,14 @@
             </Library>
           </value>
         </entry>
+        <entry key="MySql">
+          <value>
+            <Library>
+              <option name="name" value="MySql" />
+              <option name="path" value="$PROJECT_DIR$/../MPS-MySQL" />
+            </Library>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

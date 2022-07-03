@@ -387,6 +387,13 @@
     <property role="EcuMT" value="2989261216890102894" />
     <property role="R5$K7" value="true" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <node concept="1TJgyj" id="7av8Xj2mRdf" role="1TKVEi">
+      <property role="IQ2ns" value="8259359638321591119" />
+      <property role="20lmBu" value="fLJjDmT/aggregation" />
+      <property role="20kJfa" value="languages" />
+      <property role="20lbJX" value="fLJekj5/_0__n" />
+      <ref role="20lvS9" node="32cBiFcPl2M" resolve="Language" />
+    </node>
   </node>
   <node concept="1TIwiD" id="2_VZjOH_yin">
     <property role="TrG5h" value="Reference" />
@@ -1763,7 +1770,7 @@
     <property role="EcuMT" value="6461663293018433765" />
     <property role="3GE5qa" value="entities" />
     <property role="TrG5h" value="EntityReference" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="5AGs8umyQzA" role="1TKVEi">
       <property role="IQ2ns" value="6461663293018433766" />
       <property role="20kJfa" value="entity" />
@@ -1775,7 +1782,7 @@
     <property role="EcuMT" value="1937163264433118763" />
     <property role="3GE5qa" value="entities" />
     <property role="TrG5h" value="AttributeReference" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="1FybVASudSG" role="1TKVEi">
       <property role="IQ2ns" value="1937163264433118764" />
       <property role="20kJfa" value="attribute" />
@@ -1794,7 +1801,7 @@
     <property role="3GE5qa" value="entities" />
     <property role="TrG5h" value="EntityAttributeReference" />
     <property role="R4oN_" value="Dotnotation reference: entity.attribute" />
-    <ref role="1TJDcQ" to="tpck:gw2VY9q" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="3SUfKkwzFuz" role="1TKVEi">
       <property role="IQ2ns" value="4483965670254360483" />
       <property role="20kJfa" value="entity" />

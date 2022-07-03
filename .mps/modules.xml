@@ -8,6 +8,8 @@
       <modulePath path="$PROJECT_DIR$/languages/yepr.mps.ejslj3/runtime/yepr.mps.ejslj3.runtime.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/yepr.mps.ejslj3/sandbox/yepr.mps.ejslj3.sandbox.msd" folder="" />
       <modulePath path="$PROJECT_DIR$/languages/yepr.mps.ejslj3/yepr.mps.ejslj3.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.mps.languagestrings/sandbox/yepr.mps.languagestrings.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/yepr.mps.languagestrings/yepr.mps.languagestrings.mpl" folder="" />
     </projectModules>
   </component>
 </project>
