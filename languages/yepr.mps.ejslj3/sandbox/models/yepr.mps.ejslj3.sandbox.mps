@@ -420,6 +420,12 @@
               <property role="XjuCn" value="2_VZjOH_yl6/Text" />
             </node>
           </node>
+          <node concept="4VtVi" id="79PO2AOZx19" role="4VtVg">
+            <property role="TrG5h" value="points" />
+            <node concept="4VtBg" id="79PO2AOZx1a" role="1I4poA">
+              <property role="XjuCn" value="2_VZjOH_ykk/Integer" />
+            </node>
+          </node>
         </node>
         <node concept="4VtVS" id="7cPnI8t6HG6" role="4VtU4">
           <property role="TrG5h" value="Talk" />

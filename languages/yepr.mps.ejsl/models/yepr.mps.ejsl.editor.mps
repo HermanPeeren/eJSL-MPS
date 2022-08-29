@@ -1278,9 +1278,10 @@
   <node concept="24kQdi" id="3SUfKkwvXr0">
     <property role="3GE5qa" value="types" />
     <ref role="1XX52x" to="mhw8:4Vl4c_NAfIw" resolve="ComplexHTMLTypes" />
-    <node concept="3F0A7n" id="3SUfKkwvXr2" role="2wV5jI">
-      <ref role="1NtTu8" to="mhw8:4Vl4c_NAfIx" resolve="htmltype" />
-      <ref role="1k5W1q" node="7cPnI8t44UT" resolve="keyword" />
+    <node concept="1kIj98" id="79PO2AOvzIp" role="2wV5jI">
+      <node concept="3F0A7n" id="79PO2AOvzIv" role="1kIj9b">
+        <ref role="1NtTu8" to="mhw8:4Vl4c_NAfIx" resolve="htmltype" />
+      </node>
     </node>
   </node>
   <node concept="24kQdi" id="3SUfKkwwwE4">
